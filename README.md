@@ -1,11 +1,3 @@
-<style>
-  .box {
-    display: flex;
-    justify-content: center;
-  }
-</style>
-
-
 <h1>Olá Mundo!</h1>
 
 <p>

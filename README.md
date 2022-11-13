@@ -1,7 +1,7 @@
 <h1>Olá Mundo!</h1>
 
 <p>
-👋 Meu nome é <strong>Gabriel Dantas</strong>, sou um desenvolvidor web full-stack. Tenho foco em desenvolvimento Front-end, mas também sei lidar com o Back-end e até mesmo arquitetura MVC. Sigo nessa caminhada desde os 15 anos, me apaixando cada vez mais pela programação!</p>
+👋 Meu nome é <strong>Gabriel Dantas</strong>, sou um desenvolvidor web full-stack. Tenho foco em desenvolvimento Front-end, mas também sei lidar com o Back-end. Sigo nessa caminhada desde os 15 anos, me apaixando cada vez mais pela programação!</p>
 <br>
 
 <div align="center">
@@ -11,9 +11,9 @@
 </div>
   <br>
   
-- 👀 Me interesso por Python, MySQL, HTML5, CSS3, JavaScript, PHP, JQuery, Bootstrap, Ajax e outras tecnologias.
-- 🌱 Atualmente estou estudando Wordpress e Ionic para aplicações mobile
-- 📫 Para me encontrar: dantasbiell20@gmail.com
+ 👀 Trabalho com HTML, CSS, JS e React JS. Mas também possuo domínio em JQuery, Bootstrap, Python e PHP.
+ 🌱 Atualmente estou estudando Node JS e React Native
+ 📫 Para me encontrar: dantasbiell20@gmail.com
   <div>
     
  <br>
@@ -31,6 +31,7 @@
   <img  alt="" height="50"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img  alt="" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img  alt="" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img  alt="" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
   <br>
   

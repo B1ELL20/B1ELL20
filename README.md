@@ -12,7 +12,9 @@
   <br>
   
  👀 Trabalho com HTML, CSS, JS e React JS. Mas também possuo domínio em JQuery, Bootstrap, Python e PHP.
+  <br>
  🌱 Atualmente estou estudando Node JS e React Native
+  <br>
  📫 Para me encontrar: dantasbiell20@gmail.com
   <div>
     

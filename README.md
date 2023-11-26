@@ -1,5 +1,7 @@
 <h1>Olá Mundo! Aqui é Gabriel Dantas</h1>
 
+<p>Apaixonado por programação e tecnologia</p>
+
 <br>
 
 <div align="center">
@@ -8,14 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1ELL20&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br>
-  
- 👀 Trabalho com HTML, CSS, JS e React JS. Mas também possuo conhcimento em JQuery, Bootstrap, Python e PHP.
-  <br>
- 📫 Para me encontrar: dantasbiell20@gmail.com
-  <div>
- <br>
- 
-</div>
 
 <h2>Tecnologias</h2>
 

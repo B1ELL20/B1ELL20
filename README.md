@@ -1,7 +1,7 @@
 <h1>Olá Mundo! Aqui é Gabriel Dantas</h1>
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://b1ell20.github.io/portfolio/)
-<p>Apaixonado por programação e tecnologia</p>
+<p style="display:inline">Apaixonado por programação e tecnologia</p>
 
 <br>
 

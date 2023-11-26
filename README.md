@@ -1,7 +1,5 @@
-<h1>Olá Mundo!</h1>
+<h1>Olá Mundo! Aqui é Gabriel Dantas</h1>
 
-<p>
-👋 Meu nome é <strong>Gabriel Dantas</strong>, sou um desenvolvedor web full-stack com foco em desenvolvimento Front-end. Siguindo nessa caminhada desde os 15 anos, me apaixando cada vez mais pela programação!</p>
 <br>
 
 <div align="center">

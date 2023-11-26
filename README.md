@@ -28,11 +28,10 @@
   <img  alt="" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img  alt="" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img  alt="" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img  alt="" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/wordpress.svg" />
 </div>
   <br>
   
   <div> 
  <a href="https://www.behance.net/bielldantas20/" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
-  <a href="www.linkedin.com/in/gabriel-dantas-costa-carneiro-056451230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-dantas-costa-carneiro-056451230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   

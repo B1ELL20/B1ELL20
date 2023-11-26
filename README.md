@@ -1,7 +1,7 @@
 <h1>Olá Mundo!</h1>
 
 <p>
-👋 Meu nome é <strong>Gabriel Dantas</strong>, sou um desenvolvidor web full-stack. Tenho foco em desenvolvimento Front-end, mas também sei lidar com o Back-end. Sigo nessa caminhada desde os 15 anos, me apaixando cada vez mais pela programação!</p>
+👋 Meu nome é <strong>Gabriel Dantas</strong>, sou um desenvolvidor web full-stack com foco em desenvolvimento Front-end. Siguindo nessa caminhada desde os 15 anos, me apaixando cada vez mais pela programação!</p>
 <br>
 
 <div align="center">
@@ -11,17 +11,11 @@
 </div>
   <br>
   
- 👀 Trabalho com HTML, CSS, JS e React JS. Mas também possuo domínio em JQuery, Bootstrap, Python e PHP.
-  <br>
- 🌱 Atualmente estou estudando Node JS e React Native
+ 👀 Trabalho com HTML, CSS, JS e React JS. Mas também possuo conhcimento em JQuery, Bootstrap, Python e PHP.
   <br>
  📫 Para me encontrar: dantasbiell20@gmail.com
   <div>
-    
  <br>
-  
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
@@ -39,6 +33,5 @@
   
   <div> 
  <a href="https://www.behance.net/bielldantas20/" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/gabriel-dantas-costa-carneiro-056451230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   

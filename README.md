@@ -32,6 +32,8 @@
   <img  alt="" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
   <br>
+
+  <h2>Minhas Redes</h2>
   
   <div> 
  <a href="https://www.behance.net/bielldantas20/" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 

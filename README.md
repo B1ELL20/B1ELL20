@@ -26,8 +26,10 @@
   <br>
 
   <h2>Minhas Redes</h2>
-  
-  <div> 
- <a href="https://www.behance.net/bielldantas20/" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/gabriel-dantas-costa-carneiro-056451230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<a href="https://www.behance.net/bielldantas20/" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+
+<a href="https://www.linkedin.com/in/gabriel-dantas-costa-carneiro-056451230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<a href="https://www.linkedin.com/in/gabriel-dantas-costa-carneiro-056451230/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   

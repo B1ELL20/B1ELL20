@@ -1,7 +1,7 @@
 <h1>Olá Mundo! Aqui é Gabriel Dantas</h1>
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://b1ell20.github.io/portfolio/)
-<p>"Sou só um vírus, querendo escapar, dos programadores da vida."</p>
+<p>"Sou só um vírus, querendo escapar dos programadores da vida."</p>
 
 <br>
 

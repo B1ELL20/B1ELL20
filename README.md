@@ -1,16 +1,8 @@
 <h1>Olá Mundo! Aqui é Gabriel Dantas</h1>
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://b1ell20.github.io/portfolio/)
-<p>"Sou só um vírus, querendo escapar dos programadores da vida."</p>
+<p>Sou um desenvolvedor full-stack com foco em back-end, com 2 anos de experiência em React com TypeScript e Tailwind e Java Spring Boot com Mysql. Sigo na carreira da programação buscando me desenvolver cada vez mais como profissional de excelência, programando conforme as metas da vida.</p>
 
 <br>
-
-<div align="center">
-  <a href="https://github.com/B1ELL20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B1ELL20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1ELL20&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <br>
 
 <h2>Tecnologias</h2>
 
